@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OlvZyanya
 - 👀 I’m interested in Architecture
 - 🌱 I’m currently learning desing
-- 💞️ I’m looking to collaborate on nobody
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
